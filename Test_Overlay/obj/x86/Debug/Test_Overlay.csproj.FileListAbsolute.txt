@@ -1,0 +1,9 @@
+c:\users\mikael\documents\visual studio 2010\Projects\Test_Overlay\Test_Overlay\bin\Debug\Test_Overlay.exe
+c:\users\mikael\documents\visual studio 2010\Projects\Test_Overlay\Test_Overlay\bin\Debug\Test_Overlay.pdb
+c:\users\mikael\documents\visual studio 2010\Projects\Test_Overlay\Test_Overlay\obj\x86\Debug\Test_Overlay.Form1.resources
+c:\users\mikael\documents\visual studio 2010\Projects\Test_Overlay\Test_Overlay\obj\x86\Debug\Test_Overlay.Properties.Resources.resources
+c:\users\mikael\documents\visual studio 2010\Projects\Test_Overlay\Test_Overlay\obj\x86\Debug\Test_Overlay.csproj.GenerateResource.Cache
+c:\users\mikael\documents\visual studio 2010\Projects\Test_Overlay\Test_Overlay\obj\x86\Debug\Test_Overlay.exe
+c:\users\mikael\documents\visual studio 2010\Projects\Test_Overlay\Test_Overlay\obj\x86\Debug\Test_Overlay.pdb
+C:\Users\Mikael\documents\visual studio 2010\Projects\Test_Overlay\Test_Overlay\obj\x86\Debug\Test_Overlay.csprojResolveAssemblyReference.cache
+C:\Users\Mikael\documents\visual studio 2010\Projects\Test_Overlay\Test_Overlay\bin\Debug\Test_Overlay.exe.config
